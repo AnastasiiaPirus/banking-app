@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/banking-app/static/css/main.d7da34c1.css",
-    "main.js": "/banking-app/static/js/main.a9068b1d.js",
+    "main.js": "/banking-app/static/js/main.3b1cd2e5.js",
     "static/media/video.mp4": "/banking-app/static/media/video.d48e218167a19525e9ae.mp4",
     "static/media/svg-2.svg": "/banking-app/static/media/svg-2.0d5eafcfa1b4a30e0bbdaeb28bff572e.svg",
     "static/media/svg-1.svg": "/banking-app/static/media/svg-1.72bdeab44993245d5d6351257a02a7af.svg",
     "static/media/svg-3.svg": "/banking-app/static/media/svg-3.95186e66c488f736edfe9edc20026dd6.svg",
     "index.html": "/banking-app/index.html",
     "main.d7da34c1.css.map": "/banking-app/static/css/main.d7da34c1.css.map",
-    "main.a9068b1d.js.map": "/banking-app/static/js/main.a9068b1d.js.map"
+    "main.3b1cd2e5.js.map": "/banking-app/static/js/main.3b1cd2e5.js.map"
   },
   "entrypoints": [
     "static/css/main.d7da34c1.css",
-    "static/js/main.a9068b1d.js"
+    "static/js/main.3b1cd2e5.js"
   ]
 }
