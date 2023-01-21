@@ -1,4 +1,4 @@
-#Banking App
+# Banking App
 
 https://anastasiiapirus.github.io/banking-app/
 
